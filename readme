@@ -1,1 +1,9 @@
 asdasdasd
+1. Unzip the attachment containing the codes
+2. Download Google Cloud SDK and install
+3. Open command prompt
+4. Navigate to the folder
+5. Enter command dev_appserver.py app.yaml
+6. Note that python version should be 2.7
+7. Open http://localhost:8080 on any browser
+8. You can use any email id to login
